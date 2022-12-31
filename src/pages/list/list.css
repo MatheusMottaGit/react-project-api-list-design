@@ -1,0 +1,18 @@
+ul{
+    list-style: none;
+}
+
+ul li{
+    background-color: #f0f8ff;
+    margin: 1.6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    height: 100px;
+}
+
+button{
+    margin: 2%;
+    padding: .5rem;
+}
